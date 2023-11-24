@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Çağrı
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript , algorithms and data structures
-- :musical_score: I'm learning Turkish ney playing.
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning desing pattern , algorithms and data structures
 
 <!---
 muhammedcagrikurt/muhammedcagrikurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
